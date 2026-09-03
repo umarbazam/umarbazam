@@ -66,6 +66,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="40" alt="zapier logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/make/6D00CC" height="40" alt="make logo"  />
 </div>
 
 ###

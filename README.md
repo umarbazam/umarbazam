@@ -4,7 +4,7 @@
 
 ###
 
-<p data-importer="text" align="left">Full-stack developer at AZ Solutions, building production web apps from Neptune, NJ, USA us</p>
+<p data-importer="text" align="left">Full-stack developer at AZ Solutions, building production web apps from Multan, Punjab, Pakistan pk</p>
 
 ###
 
